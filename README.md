@@ -1,3 +1,3 @@
 # Restaurant-webpage
 
-live-view: https://mdrabbi66.github.io/Restaurant-webpage/
+Live-View: https://codewithrabbi.github.io/Restaurant-webpage/
